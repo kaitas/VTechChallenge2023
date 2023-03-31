@@ -36,29 +36,29 @@
 
 # How
 - 申し込み方法:connpassのリンク[]より
+#### Step1:流れの説明、メンター自己紹介
 
-Step1:自己紹介(スキルチェック)
-
-Step2:チュートリアル視聴
+#### Step2:チュートリアル視聴
 - 140秒動画x4
 
-Step3:GitHubの基本操作をマスターする
+#### Step3:GitHubの基本操作をマスターする
 - マークダウンで自己紹介
+- スキルチェック
 
-Step4:Unity Practice
+#### Step4:Unity Practice
 - Unityの起動
 - CubeとPlaneの配置
 - 衝突判定スクリプトの作成
 - デバッグのやり方
 
-Step5:VroidでVRMアバターの作成
+#### Step5:VroidでVRMアバターの作成
 - 書き出しとUnity読み込み
 
-Step6:Unityで(バレーボール)ゲームを作る
+#### Step6:Unityで(バレーボール)ゲームを作る
 - UnityにVRMをインポートし、animationをつける
 - ビルド
 
-Step7:成果発表
+#### Step7:成果発表
 
 
 
