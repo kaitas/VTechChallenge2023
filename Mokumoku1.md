@@ -4,7 +4,10 @@
 
 
 ### When: 2023/4/20 18:00-
-### Where: Google Meet + Discord
+### Where: Online
+- Google Meet
+- Discord
+
 ### who:
 - メタバースアプリの開発・3Dアバター・Unityに興味がある人
 - 自分のPCを持っている人
