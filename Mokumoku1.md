@@ -46,12 +46,21 @@ Step2:チュートリアル視聴
 Step3:GitHubの基本操作をマスターする
 - マークダウンで自己紹介
 
-Step4:Unityで(バレーボール)ゲームを作る
-- Unityの起動、衝突判定スクリプトの作成、デバッグ
-- VroidでVRMアバターの作成と書き出し
+Step4:Unity Practice
+- Unityの起動
+- CubeとPlaneの配置
+- 衝突判定スクリプトの作成
+- デバッグのやり方
+
+Step5:VroidでVRMアバターの作成
+- 書き出しとUnity読み込み
+
+Step6:Unityで(バレーボール)ゲームを作る
 - UnityにVRMをインポートし、animationをつける
-- 成果発表
--
+- ビルド
+
+Step7:成果発表
+
 
 
 ## 事前準備ToDo
