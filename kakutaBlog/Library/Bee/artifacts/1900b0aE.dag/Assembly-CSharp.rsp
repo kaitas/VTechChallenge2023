@@ -353,8 +353,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VRM10.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VRMShaders.GLTF.IO.Runtime.ref.dll"
 "Assets/Scripts/Controller.cs"
+"Assets/Scripts/hitCube.cs"
 "Assets/Scripts/VRMLoader.cs"
-"Assets/Scripts/VRMLoaderAddScript.cs"
+"Assets/Scripts/VRMLoader_v2.cs"
 -langversion:9.0
 
 /deterministic

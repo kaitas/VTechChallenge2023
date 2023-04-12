@@ -353,6 +353,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/VRM10.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/VRMShaders.GLTF.IO.Runtime.ref.dll"
 "Assets/Scripts/Controller.cs"
+"Assets/Scripts/hitCube.cs"
 "Assets/Scripts/VRMLoader.cs"
 "Assets/Scripts/VRMLoaderAddScript.cs"
 -langversion:9.0
