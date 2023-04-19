@@ -1,4 +1,4 @@
-# 自己紹介
+# Self-Introduction
 ## Deijiro0138
-- 学年：学部4年
-- 専攻：物性
+- grade:4th
+- major in Solid-State Physics
