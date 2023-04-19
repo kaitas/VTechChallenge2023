@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class hitCube : MonoBehaviour
 {
+    private bool _isCollision = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,6 +18,8 @@ public class hitCube : MonoBehaviour
     }
     private void OnCollisionEnter(Collision collision)
     {
+        _isCollision = true;
         Debug.Log("Collision");
     }
 }
+
