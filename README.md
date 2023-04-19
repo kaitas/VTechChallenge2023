@@ -7,7 +7,7 @@
 - [GitHub Desktop](https://desktop.github.com/)
 - [Visual Studio 2019 Community](https://learn.microsoft.com/ja-jp/visualstudio/releases/2019/release-notes)
 - [VRM](https://vrm.dev/)
-- [UniVRM v0.109.0](https://github.com/vrm-c/UniVRM/releases)
+- [UniVRM v0.110.0](https://github.com/vrm-c/UniVRM/releases)
 
 ## 使い方
 もくもく会の際にはGitHub DesktopからこのリポジトリをCloneしてください。リポジトリ内にはすでに作成済みのコードや素材などがあります。参考にしながら勉強を進めてください。
