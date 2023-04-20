@@ -33,5 +33,13 @@ Unityの主なコード、シーン、素材はVTechChallenge2023/kakutaBlog/Ass
 - VRMShadersはUniVRMに関するディレクトリです。編集しないでください。
 
 ## 参加者の自己紹介
-- [Deijiro0138.md](Deijiro0138.md)
+- [Deijiro0138](Deijiro0138.md)
+- [DrHakase](DrHakase.md)
+- [Kenzo](Kenzo.md)
+- [MiyuFukuoka](MiyuFukuoka.md)
+- [Mokumoku1](Mokumoku1.md)
+- [Pokara](Pokara.md)
+- [RyoYamaoka](RyoYamaoka.md)
+
+
 
