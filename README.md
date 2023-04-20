@@ -31,3 +31,20 @@ Unityの主なコード、シーン、素材はVTechChallenge2023/kakutaBlog/Ass
 - UniGLTFはUniVRMに関するディレクトリです。編集しないでください。
 - VRM10はUniVRMに関するディレクトリです。編集しないでください。
 - VRMShadersはUniVRMに関するディレクトリです。編集しないでください。
+
+## 参加者の自己紹介
+- [Deijiro0138](Deijiro0138.md)
+- [DrHakase](DrHakase.md)
+- [Kenzo](Kenzo.md)
+- [Munosic](MiyuFukuoka.md)
+- [Mokumoku1](Mokumoku1.md)
+- [Pokara](Pokara.md)
+- [RyoYamaoka](RyoYamaoka.md)
+- [koki_okada](koki_okada.md)
+- [sekiya](sekiya.md)
+- [kurosawa](kurosawa.md)
+- [regun](self_regun.md)
+- [sny0](sny0.md)
+
+
+
