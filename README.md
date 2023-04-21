@@ -36,7 +36,7 @@ Unityの主なコード、シーン、素材はVTechChallenge2023/kakutaBlog/Ass
 - [Deijiro0138](Deijiro0138.md)
 - [DrHakase](DrHakase.md)
 - [Kenzo](Kenzo.md)
-- [MiyuFukuoka](MiyuFukuoka.md)
+- [Munosic](MiyuFukuoka.md)
 - [Mokumoku1](Mokumoku1.md)
 - [Pokara](Pokara.md)
 - [RyoYamaoka](RyoYamaoka.md)
